@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shady Osama</h1>
-<div align="center"> <img src="https://thumbs.dreamstime.com/z/banner-devops-vector-illustration-concept-software-engineering-culture-practice-development-operation-137594571.jpg?w=992"> </div>
 <h1>💫 About Me:<h1>
 <h3 align="center">A passionate DevOps Engineer with a strong background in problem-solving, cloud technologies, and infrastructure as code. I love tackling complex challenges and building scalable solutions.</h3>
 <br>
-<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/ozGVX8VOhDoAAAAd/gojo-satoru-jujutsu-kaisen.gif">
-
+<!-- <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/ozGVX8VOhDoAAAAd/gojo-satoru-jujutsu-kaisen.gif">
+   -->
   
 - 👨‍💻 All of my projects are available at [https://github.com/shadyosama9](https://github.com/shadyosama9)
 
@@ -13,6 +12,11 @@
 - 📫 How to reach me **https://mail.google.com/mail/u/0/#inbox**
 
 <br>
+<br>
+
+<p align="center">
+  <a href="https://github.com/The-Young-Programmer"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20DevOps%20Engineer;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shadyosama9) 
