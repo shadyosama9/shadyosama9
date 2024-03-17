@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shady Osama</h1>
 <h1>💫 About Me:<h1>
-<h3 align="center">A passionate DevOps Engineer with a strong background in problem-solving, cloud technologies, and infrastructure as code. I love tackling complex challenges and building scalable solutions.</h3>
+<h3 align="center">A passionate DevOps Engineer with a strong background in problem-solving, cloud technologies, and infrastructure as code.</h3>
 <br>
 <!-- <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/ozGVX8VOhDoAAAAd/gojo-satoru-jujutsu-kaisen.gif">
    -->
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **DevOps, Linux**
 
-- 📫 How to reach me **https://mail.google.com/mail/u/0/#inbox**
+- 📫 How to reach me **shadyosama558@gmail.com*
 
 <br>
 <br>
