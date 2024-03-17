@@ -2,8 +2,8 @@
 <h1>💫 About Me:<h1>
 <h3 align="center">A passionate DevOps Engineer with a strong background in problem-solving, cloud technologies, and infrastructure as code.</h3>
 <br>
-<!-- <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/ozGVX8VOhDoAAAAd/gojo-satoru-jujutsu-kaisen.gif">
-   -->
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right"> <br>
+
   
 - 👨‍💻 All of my projects are available at [https://github.com/shadyosama9](https://github.com/shadyosama9)
 
