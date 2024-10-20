@@ -7,7 +7,7 @@
   
 - 💬 Ask me about **DevOps, Linux, Cloud**
 
-- 📫 How to reach me **shadyosama558@gmail.com*, **+201123721492*
+- 📫 How to reach me **shadyosama558@gmail.com*, *+201123721492*
 
 <br>
 <br>
