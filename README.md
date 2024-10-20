@@ -5,9 +5,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right"> <br>
 
   
-- 💬 Ask me about **DevOps, Linux**
+- 💬 Ask me about **DevOps, Linux, Cloud**
 
-- 📫 How to reach me **shadyosama558@gmail.com*
+- 📫 How to reach me **shadyosama558@gmail.com*, **+201123721492*
 
 <br>
 <br>
