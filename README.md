@@ -16,33 +16,6 @@
   <a href="https://github.com/shadyosama9"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20DevOps%20Engineer;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background Circle -->
-  <circle cx="32" cy="32" r="32" fill="#D24939" />
-
-  <!-- Jenkins Face Outline -->
-  <circle cx="32" cy="32" r="18" fill="#F5F5F5" stroke="#333" stroke-width="2"/>
-
-  <!-- Head -->
-  <circle cx="32" cy="22" r="6" fill="#F5F5F5" stroke="#333" stroke-width="2"/>
-
-  <!-- Body -->
-  <path d="M26,32 Q32,42 38,32 Q32,36 26,32" fill="#333" />
-
-  <!-- Bow Tie -->
-  <path d="M28,35 L24,38 L28,41 L32,38 L28,35" fill="#333"/>
-  <path d="M36,35 L40,38 L36,41 L32,38 L36,35" fill="#333"/>
-
-  <!-- Shirt -->
-  <path d="M28,41 L36,41 L32,48 L28,41" fill="#FFFFFF" stroke="#333" stroke-width="1"/>
-
-  <!-- Smile -->
-  <path d="M30,28 Q32,30 34,28" stroke="#333" stroke-width="2" fill="none" />
-
-  <!-- Eyes -->
-  <circle cx="30" cy="26" r="1" fill="#333" />
-  <circle cx="34" cy="26" r="1" fill="#333" />
-</svg>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shadyosama9/) 
