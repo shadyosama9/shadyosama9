@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shadyosama558@gmail.com*, *+201123721492*
 
-- 📄 **Know more about my experience**: [View My CV](https://drive.google.com/file/d/1SjhSgMcg2PIqL9QHSGfbk9tugXXuWlGI/view?usp=sharing)
+- 📄 **Know more about my experience**: [View My CV](https://drive.google.com/file/d/1zgY1PyqF4hh7Zb6lrAieVYcffv_bv6ty/view?usp=drive_link)
 
 
 <br>
